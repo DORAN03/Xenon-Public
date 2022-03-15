@@ -17,3 +17,8 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://xenonbot.instatus.com/embed-status/light-sm">
+        <img alt="Status" src="https://xenonbot.instatus.com/embed-status/light-sm">
+    </a>
+</p>
