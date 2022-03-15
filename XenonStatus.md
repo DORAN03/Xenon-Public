@@ -15,7 +15,4 @@
     <a href="https://github.com/DORAN03/filemanager/blob/main/xenon-shards.svg">
         <img src="https://github.com/DORAN03/filemanager/blob/main/xenon-shards.svg" alt="Shard Manager">
     </a>
-    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-        <img src="https://img.shields.io/github/license/avaire/avaire.svg" alt="GitHub" >
-    </a>
 </p>
