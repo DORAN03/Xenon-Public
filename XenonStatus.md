@@ -17,13 +17,3 @@
     </a>
 </p>
 
-<a>
-    <iframe 
-     src="https://xenonbot.instatus.com/embed-status/light-sm" 
-       width="230" 
-       height="61" 
-       frameBorder="0" 
-       scrolling="no" 
-       style="border: none;"
-    >
-</iframe></a>
