@@ -70,5 +70,5 @@ Xenon relies on the following projects:
 ---
 
 <p align="center">
-     support server: [WIP]
+     DEA Server: [WIP]
 </p>
