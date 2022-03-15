@@ -17,5 +17,6 @@
     </a>
 </p>
 
-
-<iframe src="https://xenonbot.instatus.com/embed-status/light-sm"></iframe>
+<a>
+    <iframe src="https://xenonbot.instatus.com/embed-status/light-sm"></iframe>
+</a>
